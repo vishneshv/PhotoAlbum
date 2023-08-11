@@ -1,0 +1,38 @@
+#head {
+  display: flex;
+  background-color: aqua;
+  height: 14%;
+}
+
+#image {
+  display: inline;
+  height: 100%;
+  width: 6%;
+}
+#abc {
+  color: greenyellow;
+  padding-left: 32%;
+}
+body {
+  margin: 0%;
+  background-color: grey;
+}
+#headtitle {
+  margin-left: 38%;
+}
+#images {
+  margin: 5%;
+  opacity: 20%;
+}
+#images:hover {
+  opacity: 90%;
+  transform: scale(1.2);
+}
+#gallery {
+  padding-left: 12%;
+}
+#end {
+  font-size: 25px;
+  color: rgb(140, 35, 35);
+  padding-left: 48%;
+}
